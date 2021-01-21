@@ -94,6 +94,7 @@ public class AliossflutterPlugin implements MethodCallHandler {
                 break;
             case "init":
                 init();
+                break;
             case "secretInit":
                 secretInit();
                 break;
